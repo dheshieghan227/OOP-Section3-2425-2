@@ -212,3 +212,9 @@ Zuraini Ali Shah
 > **Disclaimer:**  
 > No part of this document may be reproduced for purposes other than personal study. UTM is not responsible for errors or omissions.
 
+
+
+---
+
+## 💭 Course Reflection
+This repository contains my OOP class lab exercises. Solving weekly programming challenges helped me build muscle memory for Java syntax, unit testing, and class structures, ensuring I write clean, structured code from scratch.
